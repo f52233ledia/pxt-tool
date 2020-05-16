@@ -1,0 +1,15 @@
+{
+    "name": "tools",
+    "version": "0.0.1",
+    "description": "林志豪編製積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+   
+    ],
+    "public": true
+}
